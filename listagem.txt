@@ -3,3 +3,4 @@ portátil
 telemóvel
 tablet
 projetor
+monitor
