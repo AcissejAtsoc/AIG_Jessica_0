@@ -4,3 +4,4 @@ telemóvel
 tablet
 projetor
 monitor
+rato
